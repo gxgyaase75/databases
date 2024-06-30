@@ -1,4 +1,4 @@
-### Must have MongoDB to use ###
+### This file requires the use of MongoDB ###
 # Imports
 from pymongo import MongoClient
 from pprint import pprint
